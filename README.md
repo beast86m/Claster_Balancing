@@ -29,6 +29,7 @@
 ![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/baab5f01-c11c-4e22-800b-c0ce0d652131)
 
 Запрос к HAProxy без использования домена
+
 ![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/27c84c29-822e-473b-8a39-f17a1eb26fc0)
 
 
