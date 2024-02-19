@@ -14,6 +14,9 @@
 ![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/b75e6c34-4b24-45d1-b7ae-c781958fbc76)
 ![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/605eee15-19ac-4efb-9574-9f77058f1a82)
 
+![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/57a5820f-1826-482c-b1f8-470466ea4e14)
+![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/7b473bee-7867-419e-b979-4b88496d00cd)
+
 
 
 
