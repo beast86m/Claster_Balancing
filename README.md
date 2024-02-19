@@ -20,6 +20,20 @@
 **Задание2**
 
 ![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/f7f1ef86-9b9d-4152-865d-baf12e75f948)
+![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/4e9f236d-c0be-459f-bb24-d1b2a6629d9d)
+![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/259d95bb-6f39-4b72-9de4-742a6f3084be)
+
+![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/692979d4-8afe-4111-a276-c7b372e32557)
+
+Запрос к HAProxy с использованием example.local:
+![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/baab5f01-c11c-4e22-800b-c0ce0d652131)
+
+Запрос к HAProxy без использования домена
+![image](https://github.com/beast86m/Claster_Balancing/assets/47268167/27c84c29-822e-473b-8a39-f17a1eb26fc0)
+
+
+
+
 
 
 
